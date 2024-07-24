@@ -1,0 +1,14 @@
+{
+  "name": "Martify",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "author": "",
+  "description": "E-commerce application",
+  "license": "ISC",
+  "main": "index.js",
+  "packages": {},
+  "scripts": {
+    "start": "node index.html"
+  }
+}
